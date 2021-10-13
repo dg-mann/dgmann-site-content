@@ -13,7 +13,10 @@
   "blog": {
     ":description": "List of blog posts",
     ":items": {
-      "title": {":type": "line"},
+      "title": {
+        "title-1": {":type": "line"},
+        "title-2": {":type": "line"}
+      },
       "text":  {":type": "text", ":richtext": true}
     }
   }
