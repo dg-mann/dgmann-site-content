@@ -1,6 +1,6 @@
 {
   ":name": "DGMANN Website",
-  ":description": "Das ist ein erster Test für die Website."
+  ":description": "Das ist ein erster Test für die Website.",
   "name": {
     ":description": "Websitename",
     ":type": "line"
