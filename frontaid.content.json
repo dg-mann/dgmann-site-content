@@ -7,6 +7,6 @@
   },
   "index": {
     "title": "Startseite",
-    "text": ""
+    "text": "<p>Hi! Mein Name ist &lt;span class=\"maincontent--highlight\"&gt;Paul Degemann&lt;/span&gt; bin 26 Jahre alt und &lt;span class=\"maincontent--highlight\"&gt;Frontend-Developer&lt;/span&gt;.</p>"
   }
 }
