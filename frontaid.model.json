@@ -1,6 +1,6 @@
 {
   ":name": "DGMANN Website",
-  ":description": "Das ist ein erster Test für die Website.",
+  ":description": "CMS für degemann.de",
   "name": {
     ":description": "Websitename",
     ":type": "line"
@@ -10,14 +10,9 @@
     "title": {":type": "line"},
     "text":  {":type": "text"}
   },
-  "blog": {
-    ":description": "List of blog posts",
-    ":items": {
-      "title": {
-        "title-1": {":type": "line"},
-        "title-2": {":type": "line"}
-      },
-      "text":  {":type": "text", ":richtext": true}
-    }
+  "privacy": {
+    ":description": "Content for the privacy page",
+    "title": {":type": "line"},
+    "text":  {":type": "text", ":richtext": true}
   }
 }
