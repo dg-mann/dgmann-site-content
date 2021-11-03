@@ -8,7 +8,7 @@
   "index": {
     ":description": "Content for the index page",
     "title": {":type": "line"},
-    "text":  {":type": "text"}
+    "text":  {":type": "text", ":richtext": true}
   },
   "privacy": {
     ":description": "Content for the privacy page",
