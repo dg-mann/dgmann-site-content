@@ -14,5 +14,10 @@
     ":description": "Content for the privacy page",
     "title": {":type": "line"},
     "text":  {":type": "text", ":richtext": true}
+  },
+  "imprint": {
+    ":description": "Content for the imprint page",
+    "title": {":type": "line"},
+    "text":  {":type": "text", ":richtext": true}
   }
 }
