@@ -19,5 +19,12 @@
     ":description": "Content for the imprint page",
     "title": {":type": "line"},
     "text":  {":type": "text", ":richtext": true}
+  },
+  "skills": {
+    ":description": "Skilllist",
+    ":items": {
+      "image-source": {":type": "line"},
+      "link": {":type": "line"},
+    }
   }
 }
