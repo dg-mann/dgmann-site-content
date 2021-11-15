@@ -24,7 +24,7 @@
     ":description": "Skilllist",
     ":items": {
       "image-source": {":type": "line"},
-      "link": {":type": "line"},
+      "link": {":type": "line"}
     }
   }
 }
